@@ -1,0 +1,12 @@
+body {
+    box-sizing:border-box;
+}
+
+
+.header {
+    background-color: aqua;
+    color: blue;
+}
+ .h1 {
+     color:crimson;
+ }
